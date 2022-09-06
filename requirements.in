@@ -1,0 +1,17 @@
+pandas
+numpy
+sklearn
+sklearn.preprocessing
+sklearn.cluster
+pickle
+matplotlib.pyplot
+seaborn
+BeautifulSoup
+requests
+re
+spotipy
+spotipy.oauth2
+json
+time
+random
+sys
